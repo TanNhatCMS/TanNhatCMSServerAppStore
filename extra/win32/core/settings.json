@@ -1,0 +1,18 @@
+{
+	"Debug": false,
+	"Language": "vi",
+	"ThemeMode": "system",
+	"ThemeColor": "#1890FF",
+	"EnableEnv": false,
+	"PhpCliVersion": "",
+	"EnableComposer": false,
+	"TextEditor": "S:\\EServer\\extra\\win32\\core\\childApp\\tool\\Notepad3\\Notepad3.exe",
+	"WebsiteDir": "S:\\EServer\\extra\\win32\\core\\www",
+	"OneClickServerList": [
+		"Nginx",
+		"PHP-FPM",
+		"MySQL-5.7"
+	],
+	"AutoStartAndRestartServer": true,
+	"AfterOpenAppStartServer": false
+}
